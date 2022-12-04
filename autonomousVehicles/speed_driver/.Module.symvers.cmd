@@ -1,0 +1,1 @@
+cmd_/home/debian/finalproject/speed_driver/Module.symvers := sed 's/ko$$/o/' /home/debian/finalproject/speed_driver/modules.order | scripts/mod/modpost -m    -o /home/debian/finalproject/speed_driver/Module.symvers -e -i Module.symvers   -T -

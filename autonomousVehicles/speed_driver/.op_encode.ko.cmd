@@ -1,0 +1,1 @@
+cmd_/home/debian/finalproject/speed_driver/op_encode.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/debian/finalproject/speed_driver/op_encode.ko /home/debian/finalproject/speed_driver/op_encode.o /home/debian/finalproject/speed_driver/op_encode.mod.o;  true
